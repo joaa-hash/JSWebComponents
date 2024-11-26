@@ -44,7 +44,7 @@ In a wc, it's possible to update each attribute only when its changed for more p
 Google Auth 
   - Requires OAuth Login
   - `npm run serve-ngrok-oauth`
-    - `ngrok http http://localhost:8000 --oauth=google --oauth-allow-email=realityexpander@gmail.com`
+    - `ngrok http http://localhost:8000 --oauth=google --oauth-allow-email=josue.aguilar.wk@gmail.com`
   - note: can add up to 5 emails on free plan
 
 
